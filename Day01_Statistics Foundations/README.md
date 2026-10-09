@@ -3,7 +3,7 @@
 **Level:** Beginner  
 **Estimated time:** 60–90 minutes  
 **Tools:** Excel or Google Sheets (Python is optional today)  
-**Dataset:** [`../datasets/day01_customer_spending.csv`](../datasets/day01_customer_spending.csv)
+
 
 ## Today's Goal
 
