@@ -38,4 +38,4 @@ Answer in 1–3 sentences each:
 - [ ] I answered the measurement-scale questions.
 - [ ] I explained the causation limitation and possible bias.
 
-Send your answers or a screenshot for review before moving to Day 03.
+Next -  moving to Day 03.
