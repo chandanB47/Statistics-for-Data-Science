@@ -1,24 +1,30 @@
-# Progress Tracker — Statistics for Data Science
+# Statistics for Data Science — Progress Tracker
 
-Update this after completing tasks and reviewing any corrections.
+Update this file as each day's task is completed and reviewed. Mark a day complete only when the practical task has been attempted and the key concepts are understood.
 
-| Day | Topic | Status | Notes |
+**Status legend:** ⬜ Not started · 🟡 In progress · ✅ Completed · 🔁 Review needed
+
+| Day | Topic | Status | Evidence / Notes |
 |---|---|---|---|
-| 01 | Foundations of Statistics | Not started | |
-| 02 | Data Types and Data Collection | In progress | Current lesson |
-| 03 | Frequency Tables and Visualization | Not started | |
-| 04 | Central Tendency | Not started | |
-| 05 | Variability and Outliers | Not started | |
-| 06 | Descriptive Statistics Project | Not started | |
-| 07 | Probability Fundamentals | Not started | |
-| 08 | Random Variables and Distributions | Not started | |
-| 09 | Relationships Between Variables | Not started | |
-| 10 | Sampling and Sampling Distributions | Not started | |
-| 11 | Estimation and Confidence Intervals | Not started | |
-| 12 | Hypothesis Testing | Not started | |
-| 13 | Statistical Tests and A/B Testing | Not started | |
-| 14 | Regression and Causal Reasoning | Not started | |
-| 15 | End-to-End Portfolio Project | Not started | |
+| 01 | Foundations of Statistics | ✅ Completed | Read lesson and complete `Day-01/TASK.md` |
+| 02 | Data Types and Data Collection | 🟡 In progress | |
+| 03 | Frequency Tables and Visualization | ⬜ Not started | |
+| 04 | Central Tendency | ⬜ Not started | |
+| 05 | Variability and Outliers | ⬜ Not started | |
+| 06 | Descriptive Statistics Project | ⬜ Not started | |
+| 07 | Probability Fundamentals | ⬜ Not started | |
+| 08 | Random Variables and Distributions | ⬜ Not started | |
+| 09 | Relationships Between Variables | ⬜ Not started | |
+| 10 | Sampling and Sampling Distributions | ⬜ Not started | |
+| 11 | Estimation and Confidence Intervals | ⬜ Not started | |
+| 12 | Hypothesis Testing | ⬜ Not started | |
+| 13 | Statistical Tests and A/B Testing | ⬜ Not started | |
+| 14 | Regression and Causal Reasoning | ⬜ Not started | |
+| 15 | End-to-End Portfolio Project | ⬜ Not started | |
 
-## Completion rule
-Mark a day Complete after reading the lesson, answering the tasks, reviewing corrections, and saving your work.
+## Reflection Notes
+
+At the end of each day, record:
+- One concept I can explain clearly:
+- One concept I need to revisit:
+- One practical example of where this method is useful:
