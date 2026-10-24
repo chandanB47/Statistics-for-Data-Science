@@ -1,24 +1,29 @@
-# Day 01 Practice Dataset — Customer Spending
+# Shared Dataset
 
-**File:** `day01_customer_spending.csv`
+**File:** `customer_campaign_data.csv`
 
-This is a synthetic dataset created for learning statistics. It contains 30 fictional customer records and a flag identifying a 10-customer exercise sample.
+This file contains 300 synthetic customer-level records created for learning. It does not represent real customers or a real company.
 
-## Columns
+| Column | Meaning | Type |
+|---|---|---|
+| `customer_id` | Unique record ID | Identifier |
+| `age` | Age in years | Numerical, discrete |
+| `gender` | Category | Categorical, nominal |
+| `region` | Broad region | Categorical, nominal |
+| `acquisition_channel` | How the customer arrived | Categorical, nominal |
+| `campaign_group` | Campaign label A or B | Categorical, nominal |
+| `website_visits` | Number of recorded visits | Numerical, discrete |
+| `session_minutes` | Session duration | Numerical, continuous |
+| `converted` | 1 = converted, 0 = did not convert | Binary categorical |
+| `revenue` | Revenue; zero if not converted | Numerical, continuous |
+| `satisfaction_score` | Rating from 1 to 5 | Ordinal |
+| `support_tickets` | Number of support tickets | Numerical, discrete |
 
-| Column | Meaning |
-|---|---|
-| `Customer_ID` | Fictional unique customer identifier |
-| `Region` | Fictional customer region |
-| `Age` | Age in years |
-| `Monthly_Spend_INR` | Monthly spending in Indian rupees |
-| `Orders_Last_Month` | Number of orders in the previous month |
-| `Satisfaction_Score` | Fictional score from 1 (low) to 5 (high) |
-| `Selected_For_Sample` | `Yes` if selected for the lesson's sample exercise; otherwise `No` |
+## Notes
+- Nine `satisfaction_score` values are missing intentionally for data-quality practice.
+- Do not average `customer_id`; it is an identifier.
+- The mean of `converted` is the conversion proportion.
+- Revenue has many zeros because non-converters have zero revenue.
+- Do not claim campaign group differences prove causation. This is a synthetic learning dataset, not a documented randomized experiment.
 
-## Important Notes
-
-- All rows and values are fictional and generated for practice.
-- For the Day 01 exercise only, treat all 30 rows as the population and the 10 rows flagged `Yes` as the sample.
-- This sample flag is provided to teach the vocabulary; it is not a claim that the selection is representative of a real customer population.
-- Do not use this data to make claims about actual customers or businesses.
+Open in Excel/Google Sheets. In Python, use `pandas.read_csv("datasets/customer_campaign_data.csv")`.
