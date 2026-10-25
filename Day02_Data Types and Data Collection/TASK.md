@@ -31,12 +31,18 @@ Choose the best scale—**nominal, ordinal, interval, or ratio**—and give one 
 
 ## Task 3 — Collection and bias
 Answer in 1–3 sentences each:
-1. Is this a real experiment or a synthetic learning dataset? Can we conclude that campaign B causes more revenue than campaign A? Why or why not?
-2. Imagine the company only surveyed customers who bought something. What bias might this create when estimating satisfaction for all visitors?
+
+### 1. Is this a real experiment or a synthetic learning dataset? Can we conclude that campaign B causes more revenue than campaign A?
+
+The CSV file does not establish whether the data is real or synthetic, so its provenance must be confirmed from the dataset documentation. We cannot conclude that campaign B causes more revenue than campaign A from these records alone because the file does not establish that customers were randomly assigned to campaigns or that other factors were controlled.
+
+### 2. What bias might occur if only customers who bought something were surveyed?
+
+This creates **selection bias** because customers who purchased may have different satisfaction levels from visitors who did not purchase. The survey would not represent all visitors fairly, so the estimated overall satisfaction could be misleading.
 
 ## Before you submit
-- [ ] I classified all listed columns.
-- [ ] I answered the measurement-scale questions.
-- [ ] I explained the causation limitation and possible bias.
+- [x] I classified all listed columns.
+- [x] I answered the measurement-scale questions.
+- [x] I explained the causation limitation and possible bias.
 
 Next -  moving to Day 03.
