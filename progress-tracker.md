@@ -4,11 +4,11 @@ Update this file as each day's task is completed and reviewed. Mark a day comple
 
 **Status legend:** ⬜ Not started · 🟡 In progress · ✅ Completed · 🔁 Review needed
 
-| Day | Topic | Status | Evidence / Notes |
-|---|---|---|---|
-| 01 | Foundations of Statistics | ✅ Completed | Read lesson and complete `Day-01/TASK.md` |
-| 02 | Data Types and Data Collection | 🟡 In progress | |
-| 03 | Frequency Tables and Visualization | ⬜ Not started | |
+| Day | Topic | Status | 
+|---|---|---|
+| 01 | Foundations of Statistics | ✅ Completed |
+| 02 | Data Types and Data Collection | ✅ Completed | |
+| 03 | Frequency Tables and Visualization | 🟡 In progress  | |
 | 04 | Central Tendency | ⬜ Not started | |
 | 05 | Variability and Outliers | ⬜ Not started | |
 | 06 | Descriptive Statistics Project | ⬜ Not started | |
