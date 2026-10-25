@@ -14,9 +14,11 @@ Create a bar chart of acquisition channel counts.
 ## Task 3
 Write one sentence describing the largest category and one limitation of this chart.
 
-## Before you submit
-- [ ] I completed all three tasks.
-- [ ] I explained the result in plain language.
-- [ ] I noted any important limitation.
+**Largest category:** Organic, Paid Search, and Social are tied for the largest acquisition channel, with 69 customers each, representing 23% of all records.
 
-Send your answers or screenshots for review before moving to the next day.
+**Limitation:** The bar chart shows customer counts by acquisition channel, but it does not tell us which channel generates the most revenue or conversions.
+
+## Before you submit
+- [x] I completed all three tasks.
+- [x] I explained the result in plain language.
+- [x] I noted any important limitation.
