@@ -10,17 +10,17 @@ Classify each column as **categorical**, **numerical**, or **identifier**. For n
 
 | Column | Your answer |
 |---|---|
-| `customer_id` | |
-| `age` | |
-| `region` | |
-| `acquisition_channel` | |
-| `campaign_group` | |
-| `website_visits` | |
-| `session_minutes` | |
-| `converted` | |
-| `revenue` | |
-| `satisfaction_score` | |
-| `support_tickets` | |
+| `customer_id` | Identifier |
+| `age` | Numerical |
+| `region` | Categorical |
+| `acquisition_channel` | Categorical |
+| `campaign_group` | Categorical |
+| `website_visits` | Numerical |
+| `session_minutes` | Numerical |
+| `converted` | Categorical (binary: 0/1) |
+| `revenue` |  Numerical |
+| `satisfaction_score` |  Categorical (ordered rating) |
+| `support_tickets` |  Numerical |
 
 ## Task 2 — Measurement scale
 Choose the best scale—**nominal, ordinal, interval, or ratio**—and give one short reason for each:
