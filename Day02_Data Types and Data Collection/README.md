@@ -40,4 +40,4 @@ The mean of `converted` (1 = converted, 0 = not converted) is the proportion of 
 1. Open the CSV in Excel or Google Sheets.
 2. Inspect the headers and a few rows.
 3. Complete `TASK.md`.
-4. Share your answers for review before moving to Day 03.
+4. After complete day02 moving to Day 03.
