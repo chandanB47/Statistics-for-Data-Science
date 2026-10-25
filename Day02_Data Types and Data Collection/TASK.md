@@ -24,9 +24,10 @@ Classify each column as **categorical**, **numerical**, or **identifier**. For n
 
 ## Task 2 — Measurement scale
 Choose the best scale—**nominal, ordinal, interval, or ratio**—and give one short reason for each:
-1. `region`
-2. `satisfaction_score`
-3. `session_minutes`
+
+1. **Region — Nominal:** Regions are categories with no natural ranking.
+2. **Satisfaction score — Ordinal:** Scores have a meaningful order, from lower to higher satisfaction, but the differences between scores are not necessarily equal.
+3. **Session minutes — Ratio:** Time has a meaningful zero, and a 10-minute session is twice as long as a 5-minute session.
 
 ## Task 3 — Collection and bias
 Answer in 1–3 sentences each:
