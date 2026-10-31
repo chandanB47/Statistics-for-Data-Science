@@ -21,4 +21,4 @@ Write one sentence describing the largest category and one limitation of this ch
 ## Before you submit
 - [x] I completed all three tasks.
 - [x] I explained the result in plain language.
-- [x] I noted any important limitation.
+
